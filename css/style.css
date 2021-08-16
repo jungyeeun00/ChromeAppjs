@@ -19,3 +19,9 @@ h1 {
 .hidden{
     display: none;
 }
+
+#clock{
+    color: white;
+    text-align: center;
+    font-size: 100pt;
+}
